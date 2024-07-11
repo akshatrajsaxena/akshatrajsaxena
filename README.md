@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/be832922391491.58c25558f0fe7.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 <h3 align="center">Web Developer and Web3 Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
