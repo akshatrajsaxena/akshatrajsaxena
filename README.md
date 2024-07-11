@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/be832922391491.58c25558f0fe7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 <h3 align="center">Web Developer and Web3 Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
@@ -9,17 +9,17 @@
 
 - 🤝 I’m looking for help with [Web3 Projects using Solidity](https://github.com/buildspace/buildspace-projects)
 
-- 👨‍💻 All of my projects are available at [https://akshatrajsaxena.netlify.app/](https://akshatrajsaxena.netlify.app/)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/akshatrajsaxena)
 
-- 📝 I regularly write articles on [https://codeforces.com/blog/entry/129713](https://codeforces.com/blog/entry/129713)
+- 📝 I regularly write articles on [Codeforces](https://codeforces.com/blog/entry/129713) My Codeforces Profile is [Baski_Flex](https://codeforces.com/profile/Baski_Flex)
 
 - 💬 Ask me about **react, Java**
 
 - 📫 How to reach me **akshat22054@iiitd.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18fUNX3xVtS5-DxGFqS9TRmWOdVTLIe1U/view](https://drive.google.com/file/d/18fUNX3xVtS5-DxGFqS9TRmWOdVTLIe1U/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fUNX3xVtS5-DxGFqS9TRmWOdVTLIe1U/view)
 
-- ⚡ Fun fact **I am a Karateka, Guitarist**
+- ⚡ Fun fact **I am a Karateka Guitarist**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatrajsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrajsaxena" /> </p>
 
@@ -46,9 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akshatrajsaxena"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/akshatrajsaxena" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatrajsaxena&show_icons=true&locale=en&layout=compact" alt="akshatrajsaxena" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatrajsaxena&show_icons=true&locale=en&layout=compact" alt="akshatrajsaxena" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatrajsaxena&show_icons=true&locale=en" alt="akshatrajsaxena" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatrajsaxena&" alt="akshatrajsaxena" /></p>
 
