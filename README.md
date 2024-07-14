@@ -58,8 +58,6 @@
 
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/akshatrajsaxena/count.svg" />
 
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
 
