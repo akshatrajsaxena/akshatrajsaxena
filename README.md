@@ -42,7 +42,7 @@
 <a href="https://instagram.com/damnwinged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damnwinged" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC70ry2vW-Qu3BXsRIBPlVZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc70ry2vw-qu3bxsribplvzq" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/baski_flex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baski_flex" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/flick__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/interview-bit.svg" alt="flick__" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/akshatraj-saxena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/interview-bit.svg" alt="flick__" height="30" width="40" /></a>
 
 </p>
 
