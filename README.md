@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 
-<h3 align="center">Web Developer and Web3 Enthusiast</h3>
+<h3 align="center">Competitive Programmer Web Developer and Web3 Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
