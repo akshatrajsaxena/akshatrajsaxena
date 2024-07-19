@@ -57,11 +57,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatrajsaxena&" alt="akshatrajsaxena" /></p>
 
 
-
-
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
 
 
 ## Damn This Snake Again !!
 
 ![snake gif](https://github.com/akshatrajsaxena/akshatrajsaxena/blob/output/github-contribution-grid-snake.svg)
+
+
+## License
+
+[MIT License](https://github.com/akshatrajsaxena/akshatrajsaxena/blob/main/LICENSE)
