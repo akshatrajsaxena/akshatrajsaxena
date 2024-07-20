@@ -58,6 +58,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatrajsaxena&" alt="akshatrajsaxena" /></p>
 
+<div align="center">
+<img alt="Akshat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akshatrajsaxena&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatrajsaxena&layout=compact&&langs_count=8"/>
+</div>
+
 
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
 
