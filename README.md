@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **[Mail Me](akshat22054@iiitd.ac.in)**
+- 📫 How to reach me **[Mail Me](mailto:akshat22054@iiitd.ac.in)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fUNX3xVtS5-DxGFqS9TRmWOdVTLIe1U/view)
 
