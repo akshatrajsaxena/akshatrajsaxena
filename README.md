@@ -71,6 +71,11 @@
 ### *Show some ❤️ by starring some of the repositories that you find helpful and nice!*
 </div>
 
+<div align="center">
+  <a target="_blank" href="https://akshatrajsaxena.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-9999999?style=for-the-badge&logo=firefox&logoColor=white"></img></a>	
+</div>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatrajsaxena" alt="akshatrajsaxena" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akshatakshatraj" target="blank"><img src="https://img.shields.io/twitter/follow/akshatakshatraj?logo=twitter&style=for-the-badge" alt="akshatakshatraj" /></a> </p>
