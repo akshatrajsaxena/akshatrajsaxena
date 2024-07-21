@@ -28,6 +28,49 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatrajsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrajsaxena" /> </p>
 
+
+###  ⚡ **Popular Repositories**
+
+<a href="https://github.com/akshatrajsaxena/developerfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=developerfolio&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/lightning-algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=lightning-algorithm&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/StickHeroGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=StickHeroGame&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/Simple_Simulator_Assembler_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Simple_Simulator_Assembler_Project&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/bfs_tracing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=bfs_tracing&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+
+<div align="center">
+
+### *Show some ❤️ by starring some of the repositories that you find helpful and nice!*
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatrajsaxena" alt="akshatrajsaxena" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akshatakshatraj" target="blank"><img src="https://img.shields.io/twitter/follow/akshatakshatraj?logo=twitter&style=for-the-badge" alt="akshatakshatraj" /></a> </p>
