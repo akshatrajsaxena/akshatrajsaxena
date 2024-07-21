@@ -75,6 +75,7 @@
   <a target="_blank" href="https://akshatrajsaxena.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-9999999?style=for-the-badge&logo=firefox&logoColor=white"></img></a>	
 </div>
 
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatrajsaxena" alt="akshatrajsaxena" /></a> </p>
 
