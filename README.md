@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Okay_Sign_Clipart_Transparent_PNG_Hd__Faceless_Avatar_Showing_Okay_Sign__Faceless_Person__Faceless_Cartoon_Avatar_Okay__Man_Showing_Okay_Sign_PNG_Image_For_Free_Download-removebg-preview](https://github.com/user-attachments/assets/56a1d2bb-8666-42ca-b415-d1c99c7f7ff0)![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 
@@ -120,7 +120,7 @@
 
 | Portfolio | LinkedIn | Instagram | Codeforces | Email | Stackoverflow |
 |-----------|----------|-----------|----------|----------|-------|
-| [<img src="https://m.media-amazon.com/images/I/41jLBhDISxL._AC_SY350_QL15_.jpg?f=webp" alt="Portfolio Logo" width="50" height="auto">](https://akshatrajsaxena.netlify.app/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-5214344-4353454.png?f=webp" alt="LinkedIn Profile" width="50" height="auto">](https://www.linkedin.com/in/akshat-raj-saxena-849423258/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-7096205-5753427.png?f=webp" alt="Instagram Profile" width="50" height="auto">](https://www.instagram.com/damnwinged/) | [<img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png" alt="Codeforces Profile" width="40" height="auto">](https://codeforces.com/profile/Baski_Flex) | [<img src="https://cdn3d.iconscout.com/3d/premium/thumb/gmail-11382933-9148198.png" alt="Email" width="50" height="auto">](mailto:akshat22054@iiitd.ac.in) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Portfolio Logo" width="50" height="auto">](https://stackoverflow.com/users/26252685/baski-flex)
+| [<img src="https://github.com/user-attachments/assets/77f3b825-0dc1-4447-9885-554c431b4a4b" alt="Portfolio Logo" width="50" height="auto">](https://akshatrajsaxena.netlify.app/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-5214344-4353454.png?f=webp" alt="LinkedIn Profile" width="50" height="auto">](https://www.linkedin.com/in/akshat-raj-saxena-849423258/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-7096205-5753427.png?f=webp" alt="Instagram Profile" width="50" height="auto">](https://www.instagram.com/damnwinged/) | [<img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png" alt="Codeforces Profile" width="40" height="auto">](https://codeforces.com/profile/Baski_Flex) | [<img src="https://cdn3d.iconscout.com/3d/premium/thumb/gmail-11382933-9148198.png" alt="Email" width="50" height="auto">](mailto:akshat22054@iiitd.ac.in) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Portfolio Logo" width="50" height="auto">](https://stackoverflow.com/users/26252685/baski-flex)
 
 
 
