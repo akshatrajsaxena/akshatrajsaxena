@@ -15,11 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/akshatrajsaxena)
 
-- 📝 I regularly write articles on [Codeforces](https://codeforces.com/blog/entry/129713) My Codeforces Profile is [Baski_Flex](https://codeforces.com/profile/Baski_Flex)
-
 - 💬 Ask me about **React, Java**
-
-- 📫 How to reach me **[Mail Me](mailto:akshat22054@iiitd.ac.in)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18fUNX3xVtS5-DxGFqS9TRmWOdVTLIe1U/view)
 
