@@ -104,7 +104,9 @@
 <p><a href="https://www.buymeacoffee.com/akshatrajsaxena"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/akshatrajsaxena" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatrajsaxena&" alt="akshatrajsaxena" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatrajsaxena&" alt="akshatrajsaxena" /></p> 
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshatrajsaxena&theme=ayu_mirage" alt="akshatrajsaxena" />
+
 
 <div align="center">
 <img alt="Akshat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akshatrajsaxena&show_icons=true&theme=transparent"/>
