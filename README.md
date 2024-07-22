@@ -1,4 +1,4 @@
-![Okay_Sign_Clipart_Transparent_PNG_Hd__Faceless_Avatar_Showing_Okay_Sign__Faceless_Person__Faceless_Cartoon_Avatar_Okay__Man_Showing_Okay_Sign_PNG_Image_For_Free_Download-removebg-preview](https://github.com/user-attachments/assets/56a1d2bb-8666-42ca-b415-d1c99c7f7ff0)![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 
