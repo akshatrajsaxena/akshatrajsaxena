@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-
 <h1 align="center">Hi 👋, I'm Akshat Raj Saxena</h1>
 
 <h3 align="center">Competitive Programmer Web Developer and Web3 Enthusiast</h3>
@@ -112,14 +111,11 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatrajsaxena&layout=compact&&langs_count=8"/>
 </div>
 
-
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
-
 
 ## Damn This Snake Again !!
 
 ![snake gif](https://github.com/akshatrajsaxena/akshatrajsaxena/blob/output/github-contribution-grid-snake.svg)
-
 
 ## License
 
