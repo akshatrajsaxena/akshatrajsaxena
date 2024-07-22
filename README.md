@@ -76,20 +76,6 @@
 
 <p align="left"> <a href="https://twitter.com/akshatakshatraj" target="blank"><img src="https://img.shields.io/twitter/follow/akshatakshatraj?logo=twitter&style=for-the-badge" alt="akshatakshatraj" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  
-<a href="https://twitter.com/akshatakshatraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatakshatraj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshat-raj-saxena-849423258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-raj-saxena-849423258/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26252685/baski-flex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="baski_flex" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/akshatrajsaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshatrajsaxena" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61551255172681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damn winged" height="30" width="40" /></a>
-<a href="https://instagram.com/damnwinged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damnwinged" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC70ry2vW-Qu3BXsRIBPlVZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc70ry2vw-qu3bxsribplvzq" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/baski_flex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baski_flex" height="30" width="40" /></a>
-<a href="https://www.interviewbit.com/profile/akshatraj-saxena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/interview-bit.svg" alt="flick__" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
