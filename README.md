@@ -98,14 +98,11 @@
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
 
 
-
 ## Connect With Me  <img src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif" alt="Connect" width="60" height="60"/>
 
 | Portfolio | LinkedIn | Instagram | Codeforces | Email | Stackoverflow | Atcoder | Twitter | InterviewBit
 |-----------|----------|-----------|----------|----------|----------| ----------| ----------| -------|
 | [<img src="https://github.com/user-attachments/assets/77f3b825-0dc1-4447-9885-554c431b4a4b" alt="Portfolio Logo" width="50" height="auto">](https://akshatrajsaxena.netlify.app/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-5214344-4353454.png?f=webp" alt="LinkedIn Profile" width="50" height="auto">](https://www.linkedin.com/in/akshat-raj-saxena-849423258/) | [<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-7096205-5753427.png?f=webp" alt="Instagram Profile" width="50" height="auto">](https://www.instagram.com/damnwinged/) | [<img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png" alt="Codeforces Profile" width="40" height="auto">](https://codeforces.com/profile/Baski_Flex) | [<img src="https://cdn3d.iconscout.com/3d/premium/thumb/gmail-11382933-9148198.png" alt="Email" width="50" height="auto">](mailto:akshat22054@iiitd.ac.in) | [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Portfolio Logo" width="50" height="auto" >](https://stackoverflow.com/users/26252685/baski-flex) | [<img src="https://user-images.githubusercontent.com/63050133/151978980-3e677a92-60b0-4ae7-b1ce-2bd00ab3fe85.svg" alt="Portfolio Logo" width="50" height="auto">](https://atcoder.jp/users/Flick__) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTncNdsURrHCorSeR9usPvHN_6XPQp3toe3tA&s" alt="Twitter" width="40" height="auto">](https://x.com/akshatakshatraj) | [<img src="https://github.com/user-attachments/assets/2d2bcc6a-91a0-410a-bbbd-d353a9431b36" alt="Interview Bit" height = "100" width="100" height="auto">](https://www.interviewbit.com/profile/akshatraj-saxena/) |
-
-
 
 
 
