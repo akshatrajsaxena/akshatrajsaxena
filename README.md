@@ -25,6 +25,7 @@
 ###  ⚡ **Popular Repositories**
 
 <a href="https://github.com/akshatrajsaxena/developerfolio">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=developerfolio&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
@@ -52,6 +53,7 @@
 <br>
 
 <a href="https://github.com/akshatrajsaxena/bfs_tracing">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=bfs_tracing&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 
