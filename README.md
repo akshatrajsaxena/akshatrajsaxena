@@ -88,7 +88,6 @@
 
 [![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatrajsaxena&theme=dracula)](https://github.com/akshatrajsaxena/github-readme-activity-graph)
 
-
 ## Connect With Me  <img src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif" alt="Connect" width="60" height="60"/>
 
 | Portfolio | LinkedIn | Instagram | Codeforces | Email | Stackoverflow | Atcoder | Twitter | InterviewBit
