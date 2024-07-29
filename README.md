@@ -100,4 +100,4 @@
 
 ## License
 
-[MIT License](https://github.com/akshatrajsaxena/akshatrajsaxena/blob/main/LICENSE)
+[MIT License](https://github.com/akshatrajsaxena/akshatrajsaxena/blob/main/LICENSE) MIT License Registered
