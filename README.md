@@ -49,9 +49,9 @@
 <br>
 <br>
 
-<a href="https://github.com/akshatrajsaxena/bfs_tracing">
+<a href="https://github.com/akshatrajsaxena/lightning-algorithm">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=bfs_tracing&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=lightning-algorithm&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
 <br>
