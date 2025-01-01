@@ -22,33 +22,33 @@
 
 ###  ⚡ **Popular Repositories**
 
-<a href="https://github.com/akshatrajsaxena/developerfolio">
+<a href="https://github.com/akshatrajsaxena/Working-with-Neo4j-and-SimRank">
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Working-with-Neo4j-and-SimRank&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/Implementing-LSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Implementing-LSH&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+<br>
+<br>
+
+<a href="https://github.com/akshatrajsaxena/developerfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=developerfolio&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+
+<br>
+<br>
+<a href="https://github.com/akshatrajsaxena/socket_programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=socket_programming&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
 <br>
 
 <a href="https://github.com/akshatrajsaxena/lightning-algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=lightning-algorithm&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
-</a>
-<br>
-<br>
-
-<a href="https://github.com/akshatrajsaxena/StickHeroGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=StickHeroGame&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
-</a>
-
-<br>
-<br>
-<a href="https://github.com/akshatrajsaxena/Simple_Simulator_Assembler_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Simple_Simulator_Assembler_Project&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
-</a>
-<br>
-<br>
-
-<a href="https://github.com/akshatrajsaxena/bfs_tracing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=bfs_tracing&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
 <br>
