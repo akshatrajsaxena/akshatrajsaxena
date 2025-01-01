@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **React JS, Solidity**
 
-- 🤝 I’m looking for help with [Web3 Projects using Solidity](https://github.com/buildspace/buildspace-projects)
+- 🤝 I’m looking for help with creating interesting CP problems.
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/akshatrajsaxena)
-
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **React, Java, Python**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HD5fM0WGiVQn_xVum9H1sQ34k6Eevf4a/view)
 
