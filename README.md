@@ -29,6 +29,13 @@
 <br>
 <br>
 
+<a href="https://github.com/adsh16/dish-nutrient-simplifier">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsh16&repo=dish-nutrient-simplifier&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+<br>
+<br>
+
 <a href="https://github.com/akshatrajsaxena/Implementing-LSH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Implementing-LSH&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
