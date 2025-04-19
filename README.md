@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Java, Python**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Wls3vus3pcdrD8EhedJxJdOKq_TqeUEh/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14TCHlxGei1qA_yFxmZGh-v2MbljXZiLV/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Karateka Guitarist & Dance Enthusiast**
 
