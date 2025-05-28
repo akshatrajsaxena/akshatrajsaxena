@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/akshatrajsaxena/developerfolio)
+- I’m currently working on [My Portfolio Website](https://github.com/akshatrajsaxena/developerfolio)
 
 - I’m currently learning **React JS, Solidity**
 
