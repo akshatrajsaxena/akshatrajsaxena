@@ -8,20 +8,25 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/akshatrajsaxena/developerfolio)
 
-- 🌱 I’m currently learning **React JS, Solidity**
+- I’m currently learning **React JS, Solidity**
 
-- 🤝 I’m looking for help with creating interesting CP problems.
+- I’m looking for help with creating interesting CP problems.
 
-- 💬 Ask me about **React, Java, Python**
+- Ask me about **React, Java, Python**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1iimi052WsXGwsXVNqqfu716hFC1pD_lI/view?usp=sharing)
+- Know about my experiences [My Resume](https://drive.google.com/file/d/1iimi052WsXGwsXVNqqfu716hFC1pD_lI/view?usp=sharing)
  
-- ⚡ Fun fact **I am a Karateka Guitarist & Dance Enthusiast**
+-  Fun fact **I am a Karateka Guitarist & Dance Enthusiast**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatrajsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrajsaxena" /> </p>
 
-###  ⚡ **Popular Repositories**
-
+###  **Popular Repositories**
+<a href="https://github.com/akshatrajsaxena/Inferaread-LLMBot">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Inferaread-LLMBot&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+</a>
+<br>
+<br>
 
 <a href="https://github.com/akshatrajsaxena/Working-with-Neo4j-and-SimRank">
   
