@@ -8,11 +8,11 @@
 
 - I’m currently working on [My Portfolio Website](https://github.com/akshatrajsaxena/developerfolio)
 
-- I’m currently learning **React JS, Solidity**
+- I’m currently learning **Deep Learning, LLM, React JS, Solidity**
 
 - I’m looking for help with creating interesting CP problems.
 
-- Ask me about **React, Java, Python**
+- Ask me about **Machine Learning, React, Java, Python**
 
 - Know about my experiences [My Resume](https://drive.google.com/file/d/1iimi052WsXGwsXVNqqfu716hFC1pD_lI/view?usp=sharing)
  
