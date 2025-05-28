@@ -28,16 +28,16 @@
 <br>
 <br>
 
-<a href="https://github.com/akshatrajsaxena/Working-with-Neo4j-and-SimRank">
+<a href="https://github.com/adsh16/dish-nutrient-simplifier">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Working-with-Neo4j-and-SimRank&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsh16&repo=dish-nutrient-simplifier&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
 <br>
 
-<a href="https://github.com/adsh16/dish-nutrient-simplifier">
+<a href="https://github.com/akshatrajsaxena/Working-with-Neo4j-and-SimRank">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adsh16&repo=dish-nutrient-simplifier&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatrajsaxena&repo=Working-with-Neo4j-and-SimRank&theme=synthwave&icon_color=d30cb8&text_color=b8aec8"/>
 </a>
 <br>
 <br>
