@@ -14,7 +14,7 @@
 
 - Ask me about **Machine Learning, React, Java, Python**
 
-- Know about my experiences [My Resume](https://drive.google.com/file/d/1QFx8mKH0oSFSazZaJivL0bfbJfdrhMSe/view?usp=sharing)
+- Know about my experiences [My Resume](https://drive.google.com/file/d/1Roc_Zmn9frfc02E8gm9azqFDgbCq69Qt/view?usp=sharing)
  
 -  Fun fact **I am a Karateka Guitarist & Dance Enthusiast**
 
